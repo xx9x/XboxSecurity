@@ -41,8 +41,6 @@ Ask for:
 - Screenshot while logged in
 - Screen recording (preferred)
 - Proof of ownership
-- Current gamertag
-- Email confirmation if necessary
 
 ### ✅ Use a Trusted Middleman
 

@@ -1,6 +1,6 @@
 <div align="center">
-
-# 🟢 Xbox Securing Guide
+ 
+  #  Xbox Securing Guide
 
 ### Secure your Microsoft/Xbox account the right way.
 

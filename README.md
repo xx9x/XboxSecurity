@@ -252,6 +252,5 @@ Always trade responsibly.
 
 ---
 
-Made with ❤️ for the Xbox Community.
 
 </div>
